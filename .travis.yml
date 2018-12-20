@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+deploy:
+  provider: heroku
+  api_key: aaa7e67d-e437-4311-a321-9ca4cae3ce01
+  app: notes-aos-mnz
